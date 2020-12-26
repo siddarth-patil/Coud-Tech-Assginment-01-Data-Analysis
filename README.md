@@ -1,5 +1,4 @@
 # Data Analysis on posts from StackExchange
- DCU Masters | CA675 | Cloud Technologies
  
 Task Details:
 
